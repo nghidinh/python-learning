@@ -1,0 +1,3 @@
+'Programming C', 'Tho Phan', 'ACB', 1990, 450
+'Data Structure', 'Tam Thanh', 'JAIST', 2012, 432
+'Algorithms', 'Xuan Linh',  'HMCUT', 2001, 109

@@ -1,0 +1,6 @@
+hotel1 9.8 Tokyo
+hotel2 7.6 Nomi
+hotel3 8.4 Osaka
+hotel4 8.4 Sapparo
+hotel5 9.0 Ishikawa
+hotel6 6.6 Cobe

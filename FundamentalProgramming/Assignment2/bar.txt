@@ -1,0 +1,2 @@
+This is content of bar file
+This is content of foo file
